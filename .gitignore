@@ -1,0 +1,5 @@
+.RData
+.Rhistory
+UCI HAR Dataset
+sensor_avg_by_act_sub.txt
+*.html
